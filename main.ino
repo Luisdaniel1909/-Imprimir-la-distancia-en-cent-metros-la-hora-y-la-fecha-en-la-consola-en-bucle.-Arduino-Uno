@@ -1,3 +1,6 @@
+//Por Luis Daniel
+//El siguiente programa no hace uso del LCD solo de la consola
+
 #include <Wire.h>
 #include <RTClib.h>
 
